@@ -13,7 +13,7 @@ import { useWindowStore } from '@/store/windowStore';
 import { Folder, Code, FileText, User, Trophy, Award, Users, Terminal, Sparkles } from 'lucide-react';
 
 const DESKTOP_ICONS = [
-  { id: 'projects', label: 'Portfolio', accent: '#5b9dff', icon: <Folder className="text-blue-300 w-10 h-10" /> },
+  { id: 'finder', label: 'Portfolio', accent: '#5b9dff', icon: <Folder className="text-blue-300 w-10 h-10" /> },
   { id: 'projects', label: 'Projects', accent: '#45c99a', icon: <Code className="text-emerald-300 w-10 h-10" /> },
   { id: 'resume', label: 'Resume.pdf', accent: '#ef746d', icon: <FileText className="text-red-300 w-10 h-10" /> },
   { id: 'about', label: 'About Raksha', accent: '#ad83e8', icon: <User className="text-purple-300 w-10 h-10" /> },
