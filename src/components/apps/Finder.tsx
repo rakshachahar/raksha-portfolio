@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import * as LucideIcons from "lucide-react";
+import type { LucideIcon } from "lucide-react";
 import { useWindowStore } from "@/store/windowStore";
 
 const SIDEBAR_ITEMS = [
@@ -29,7 +30,8 @@ export function Finder() {
   };
 
   const renderIcon = (iconName: string, size = 18) => {
-    const Icon = (LucideIcons as any)[iconName] || LucideIcons.Folder;
+    const icons = LucideIcons as unknown as Record<string, LucideIcon>;
+    const Icon = icons[iconName] || LucideIcons.Folder;
     return <Icon size={size} />;
   };
 

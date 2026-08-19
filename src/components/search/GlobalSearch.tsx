@@ -4,7 +4,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Search, Sparkles } from 'lucide-react';
 import { searchIndex } from '@/data/portfolioData';
 import { useWindowStore } from '@/store/windowStore';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
 
 interface GlobalSearchProps {
   onClose: () => void;

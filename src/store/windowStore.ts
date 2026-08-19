@@ -100,7 +100,7 @@ const APP_DEFINITIONS: Omit<
 
 function buildInitialWindows(): Record<string, WindowState> {
   const map: Record<string, WindowState> = {};
-  APP_DEFINITIONS.forEach((def, i) => {
+  APP_DEFINITIONS.forEach((def) => {
     const pos = { x: 0, y: 0 };
     map[def.id] = {
       ...def,

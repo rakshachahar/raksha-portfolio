@@ -56,7 +56,7 @@ export default function AskRaksha() {
         ? payload.response
         : "I don't have verified information about that.";
       setMessages((prev) => [...prev, { role: 'assistant', content }]);
-    } catch (error) {
+    } catch {
       setMessages((prev) => [
         ...prev,
         { role: 'assistant', content: 'Ask Raksha is temporarily unavailable. The rest of the portfolio is still accessible.' },

@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { motion, useMotionValue, useSpring, useTransform, type MotionStyle } from 'framer-motion';
+import { motion, useMotionValue, useSpring, useTransform, type MotionStyle, type MotionValue } from 'framer-motion';
 import { Folder, User, Code, Briefcase, Cpu, Trophy, Award, Users, FileText, Terminal, Sparkles } from 'lucide-react';
 import { useWindowStore } from '@/store/windowStore';
 
@@ -19,7 +19,9 @@ const DOCK_ITEMS = [
   { id: 'askraksha', label: 'Ask Raksha', accent: '#8f7cf2', icon: Sparkles, special: true },
 ];
 
-function DockItem({ item, mouseX }: { item: any; mouseX: any }) {
+type DockItemData = typeof DOCK_ITEMS[number];
+
+function DockItem({ item, mouseX }: { item: DockItemData; mouseX: MotionValue<number> }) {
   const windows = useWindowStore((s) => s.windows);
   const openApp = useWindowStore((s) => s.openApp);
   const isOpen = windows[item.id]?.isOpen ?? false;

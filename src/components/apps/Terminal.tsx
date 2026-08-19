@@ -134,7 +134,7 @@ export default function Terminal() {
       case '':
         break;
       default:
-        output = <p className="text-red-400">Command not found. Type "help" for available commands.</p>;
+        output = <p className="text-red-400">Command not found. Type &quot;help&quot; for available commands.</p>;
     }
 
     if (trimmedCmd !== '') {
@@ -154,8 +154,8 @@ export default function Terminal() {
       onClick={() => inputRef.current?.focus()}
     >
       <div className="mb-4 text-green-400">
-        Welcome to Raksha's Terminal<br />
-        Type "help" for available commands.<br />
+        Welcome to Raksha&apos;s Terminal<br />
+        Type &quot;help&quot; for available commands.<br />
       </div>
 
       {history.map((item, index) => (

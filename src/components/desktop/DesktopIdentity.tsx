@@ -48,7 +48,7 @@ export default function DesktopIdentity() {
         transition={{ duration: 0.6, delay: 0.05, ease: 'easeOut' }}
         whileHover={shouldReduceMotion ? undefined : { scale: 1.04, y: -1 }}
       >
-        Hey, I'm
+        Hey, I&apos;m
       </motion.h2>
       <motion.h1
         className="hero-name pointer-events-auto text-5xl md:text-7xl font-bold text-white mb-4 drop-shadow-2xl text-center"

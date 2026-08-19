@@ -89,7 +89,7 @@ export default function Resume() {
                 try {
                   const doc = (e.target as HTMLIFrameElement).contentDocument || (e.target as HTMLIFrameElement).contentWindow?.document;
                   if (!doc) setHasError(true);
-                } catch(err) {
+                } catch {
                   // Ignore cross origin errors
                 }
               }}

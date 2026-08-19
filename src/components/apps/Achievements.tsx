@@ -1,13 +1,13 @@
 'use client';
 
 import React, { useState } from 'react';
-import { portfolioData } from '@/data/portfolioData';
-import { Trophy, X, MapPin } from 'lucide-react';
+import { portfolioData, type Achievement } from '@/data/portfolioData';
+import { Trophy, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 export default function Achievements() {
   const { achievements } = portfolioData;
-  const [selectedAchievement, setSelectedAchievement] = useState<any>(null);
+  const [selectedAchievement, setSelectedAchievement] = useState<Achievement | null>(null);
 
   return (
     <div className="p-6 h-full overflow-y-auto text-gray-200 relative">

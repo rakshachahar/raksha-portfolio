@@ -235,7 +235,7 @@ UI ACTIONS (include when appropriate):
 
 export async function POST(request: NextRequest) {
   try {
-    const { question, history } = await request.json();
+    const { question } = await request.json();
 
     if (!question || typeof question !== "string") {
       return NextResponse.json(
