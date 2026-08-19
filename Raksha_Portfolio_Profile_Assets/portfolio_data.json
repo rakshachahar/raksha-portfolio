@@ -1,0 +1,379 @@
+{
+  "person": {
+    "name": "Raksha Chahar",
+    "headline": "AI/ML Engineer | Python | Machine Learning | Generative AI | RAG Systems | LangChain | PyTorch | Building AI Applications | Open to AI/ML Internships",
+    "education": "B.Tech in Artificial Intelligence & Machine Learning",
+    "institution": "World College of Technology & Management (WCTM), Gurugram, affiliated to Maharshi Dayanand University (MDU), Rohtak",
+    "cgpa": "8.86/10.00",
+    "graduation": "May 2028",
+    "email": "rakshachahar336@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/raksha-chahar",
+    "github": "https://github.com/rakshachahar"
+  },
+  "skills": {
+    "languages": [
+      "Python",
+      "SQL",
+      "C++",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "genai_llm": [
+      "RAG",
+      "LangChain",
+      "Prompt Engineering",
+      "PyTorch",
+      "OpenRouter API",
+      "Google Gemini",
+      "AI Agents",
+      "Google ADK"
+    ],
+    "retrieval_nlp": [
+      "FAISS",
+      "Sentence Transformers",
+      "Semantic Search",
+      "Embeddings",
+      "NLP"
+    ],
+    "ml_data": [
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Model Evaluation"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Postman",
+      "REST APIs",
+      "Streamlit",
+      "Flask",
+      "HTML",
+      "CSS",
+      "Web Development",
+      "Front-End Development",
+      "Geospatial Analysis",
+      "Canva"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Machine Learning Intern",
+      "organization": "FlyRank AI",
+      "period": "Jul 2026 – Present",
+      "mode": "Remote",
+      "verified_points": [
+        "ML workflows",
+        "applied ML engineering",
+        "Generative AI applications in Python",
+        "RAG pipelines",
+        "LLM-based systems",
+        "data processing",
+        "model evaluation",
+        "AI system design"
+      ]
+    },
+    {
+      "role": "AI Automation & Intelligent Solutions Intern",
+      "organization": "BharatCares (IBM SkillsBuild, with AICTE)",
+      "period": "Jun – Jul 2026",
+      "duration": "6 weeks",
+      "mode": "Remote",
+      "project": "EduAgent AI",
+      "status": "conceptualized/proposed",
+      "team": "LOGIC LOOP"
+    },
+    {
+      "role": "Open Source Contributor",
+      "organization": "GSSoC 2026, SSoC 2026 & Nexus Spring of Code",
+      "period": "May 2026 – Present",
+      "mode": "Remote",
+      "verified_points": [
+        "pull requests",
+        "feature enhancements",
+        "Git/GitHub workflows",
+        "code review",
+        "documentation"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Scientific Literature Explorer",
+      "status": "public",
+      "category": "RAG/NLP",
+      "github": "https://github.com/rakshachahar/scientific-literature-explorer-rag",
+      "demo": "https://scientific-literature-explorer-rag.streamlit.app/",
+      "stack": [
+        "Python",
+        "LangChain",
+        "FAISS",
+        "Sentence Transformers",
+        "Streamlit",
+        "OpenRouter API",
+        "ScaleDown API"
+      ],
+      "facts": [
+        "PDF ingestion",
+        "chunking",
+        "semantic retrieval",
+        "500+ document chunks",
+        "grounded answers",
+        "prompt compression",
+        "live deployment"
+      ]
+    },
+    {
+      "name": "CommunityPulse AI",
+      "status": "public",
+      "category": "Civic AI",
+      "github": "https://github.com/rakshachahar/community-pulse-ai",
+      "demo": "https://community-pulse-ai.onrender.com/",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "Google Gemini",
+        "PostgreSQL",
+        "Drizzle ORM",
+        "Zod",
+        "Recharts"
+      ],
+      "facts": [
+        "civic issue reporting",
+        "AI analysis",
+        "severity detection",
+        "priority detection",
+        "department recommendation",
+        "suggested actions",
+        "admin dashboard"
+      ]
+    },
+    {
+      "name": "Anonymous Safety Intelligence System / SafeVoice",
+      "status": "public",
+      "category": "Safety intelligence",
+      "github": "https://github.com/rakshachahar/anonymous-safety-intelligence-system",
+      "demo": "https://anonymous-safety-intelligence-syste.vercel.app/",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Supabase",
+        "PostgreSQL",
+        "Supabase Auth",
+        "RLS",
+        "Vercel"
+      ],
+      "facts": [
+        "anonymous reporting",
+        "safety heatmap",
+        "analytics dashboard",
+        "SOS event support",
+        "admin moderation"
+      ]
+    },
+    {
+      "name": "AI App Compiler",
+      "status": "public archive",
+      "github": "https://github.com/rakshachahar/ai-app-compiler-project",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Express",
+        "AI",
+        "schema validation",
+        "automation"
+      ],
+      "facts": [
+        "natural-language app requirements",
+        "intent extraction",
+        "validation",
+        "repair",
+        "runtime simulation"
+      ]
+    },
+    {
+      "name": "AI Handwritten Document Intelligence",
+      "status": "public archive",
+      "github": "https://github.com/rakshachahar/AI-Handwritten-Document-Intelligence",
+      "facts": [
+        "handwritten document intelligence"
+      ],
+      "notes": "Use only details from project documentation/assets for deeper claims."
+    },
+    {
+      "name": "Relief Ops MVP",
+      "status": "public archive",
+      "github": "https://github.com/rakshachahar/relief-ops-mvp",
+      "facts": [
+        "AI-powered NGO decision support",
+        "prioritizing needs",
+        "allocating volunteers"
+      ]
+    },
+    {
+      "name": "Adaptive Learning Path Generator",
+      "status": "private",
+      "facts": [
+        "adaptive learning",
+        "personalized roadmaps",
+        "adaptive quizzes",
+        "real-time learning analytics"
+      ]
+    },
+    {
+      "name": "FlyRank ML Internship",
+      "status": "public",
+      "github": "https://github.com/rakshachahar/flyrank-ml-internship"
+    },
+    {
+      "name": "JavaScript Learning",
+      "status": "private",
+      "facts": [
+        "JavaScript learning repository"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Winner — Elite Her Hackathon 2026",
+      "track": "Influencer & Communication Track"
+    },
+    {
+      "title": "Finalist — India Innovates 2026",
+      "location": "Bharat Mandapam, New Delhi",
+      "team": "NeuralX"
+    },
+    {
+      "title": "Top 20 National Finalist — Praxis 2.0",
+      "organization": "GDG on Campus, GB Pant DSEU Campus"
+    },
+    {
+      "title": "Top 50 Finalist — Elite Hack 1.0",
+      "scale": "900+ teams, 7,500+ participants",
+      "team": "Byte Babes"
+    },
+    {
+      "title": "Finalist — Hack on Titan",
+      "organization": "GeeksforGeeks"
+    },
+    {
+      "title": "Advanced to Offline Round — Hack4Delhi",
+      "organization": "IEEE NSUT Delhi",
+      "team": "NeuralX"
+    },
+    {
+      "title": "Solution Challenge 2026: Build with AI",
+      "type": "Prototype Submission Certificate",
+      "issuer": "Hack2skill",
+      "credential_id": "2026H2S07SCBWAI-PS09871"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "AI Fluency: Framework & Foundations",
+      "issuer": "Anthropic",
+      "issued": "Aug 2026",
+      "credential_id": "ng9nqk457mcv"
+    },
+    {
+      "title": "Solution Challenge 2026: Build with AI",
+      "issuer": "Hack2skill",
+      "issued": "Jul 2026",
+      "credential_id": "2026H2S07SCBWAI-PS09871"
+    },
+    {
+      "title": "Critical Thinking in the AI Era",
+      "issuer": "HP LIFE",
+      "issued": "Jun 2026",
+      "credential_id": "d92285f6-bf94-4cc3-99f8-dc0a0ad2ae2d"
+    },
+    {
+      "title": "Protex Hack-2-Win Hackathon",
+      "issuer": "Protege / IGDTUW",
+      "issued": "Apr 2026"
+    },
+    {
+      "title": "Deloitte Data Analytics Job Simulation",
+      "issuer": "Deloitte / Forage",
+      "issued": "Apr 2026",
+      "credential_id": "WMfTQf2DQ2qN4kBKF"
+    },
+    {
+      "title": "Kill Switch Hackathon 2026",
+      "issuer": "HackBriven / Armoriq",
+      "issued": "Apr 2026",
+      "credential_id": "KILLS-5KA5JE"
+    },
+    {
+      "title": "Hack on Titan",
+      "issuer": "GeeksforGeeks",
+      "issued": "May 2026",
+      "credential_id": "815b70a1-100f-4303-a1f0-3c2aed3d7c70"
+    },
+    {
+      "title": "Engineer AI Agents with Agent Development Kit (ADK)",
+      "issuer": "Google",
+      "issued": "May 2026"
+    },
+    {
+      "title": "Python",
+      "issuer": "Kaggle",
+      "issued": "Dec 2025",
+      "credential_id": "raksha/python"
+    },
+    {
+      "title": "Postman API Fundamentals Student Expert",
+      "issuer": "Postman",
+      "issued": "Nov 2025",
+      "credential_id": "692c4ab7ceecee5e3a8960ba"
+    }
+  ],
+  "events": [
+    {
+      "name": "ASIS International South Asia Meet 2026",
+      "location": "JW Marriott, Aerocity, New Delhi",
+      "themes": [
+        "AI",
+        "digital transformation",
+        "security",
+        "deepfakes",
+        "misinformation",
+        "networking"
+      ]
+    },
+    {
+      "name": "Avalanche Team1 City Connect — Delhi",
+      "location": "Microsoft Office, Noida",
+      "themes": [
+        "Web3",
+        "Avalanche",
+        "blockchain",
+        "AI agents",
+        "community",
+        "networking"
+      ]
+    },
+    {
+      "name": "India Innovates 2026",
+      "location": "Bharat Mandapam, New Delhi",
+      "team": "NeuralX",
+      "theme": "Hyperlocal Ward-Level AQI & Pollution Mitigation Dashboard"
+    }
+  ],
+  "grounding": {
+    "allowed_scope": "Questions about Raksha and her verified portfolio.",
+    "unknown_response": "I don't have verified information about that.",
+    "unrelated_response": "I'm Ask Raksha, so I only answer questions about Raksha and her work.",
+    "future_rule": "Never state an unverified future event as a fact. Distinguish goals/plans from guaranteed outcomes.",
+    "private_rule": "Do not expose private repository URLs or private project details as public resources.",
+    "concise": true
+  }
+}
