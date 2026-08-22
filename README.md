@@ -439,7 +439,6 @@ Currently pursuing a B.Tech in Artificial Intelligence & Machine Learning at **W
 This project is licensed under the [MIT License](LICENSE).
 
 ---
----
 
 <p align="center">
   Built and designed by <strong>Raksha</strong> with Next.js, React, TypeScript, Tailwind CSS, and Gemini.
