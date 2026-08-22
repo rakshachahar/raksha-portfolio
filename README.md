@@ -442,5 +442,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Built and designed by <strong>Raksha Chahar</strong> with Next.js, React, TypeScript, Tailwind CSS, and Gemini.
+  Built and designed by <strong>Raksha</strong> with Next.js, React, TypeScript, Tailwind CSS, and Gemini.
 </p>
