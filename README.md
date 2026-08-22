@@ -436,10 +436,11 @@ Currently pursuing a B.Tech in Artificial Intelligence & Machine Learning at **W
 
 ## 📄 License
 
-This repository currently does not include a license.
+This project is licensed under the [MIT License](LICENSE).
 
+---
 ---
 
 <p align="center">
-  Built with Next.js, React, TypeScript, Tailwind CSS, and Gemini.
+  Built and designed by <strong>Raksha Chahar</strong> with Next.js, React, TypeScript, Tailwind CSS, and Gemini.
 </p>
